@@ -25,5 +25,4 @@ pdf-qa-assistant/
 │── utils/
 │   ├── pdf_loader.py
 │   └── qa_chain.py
-│── requirements.txt
 │── README.md
