@@ -1,4 +1,4 @@
-# 📄 PDF Q&A Assistant (Streamlit)
+# 📄 PDF Q&A Assistant (LLM-Based Document Intelligence)
 
 A simple and clean **PDF Question Answering Assistant** built with **Streamlit**.  
 Upload a PDF, process it, and ask questions to get answers based on the document content.  
